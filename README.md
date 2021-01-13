@@ -1,1 +1,1 @@
-![ColdPutter](/ColdPutter.png)
+![ColdPutter](/ColdPuter.png)
