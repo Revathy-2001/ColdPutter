@@ -1,1 +1,0 @@
-![ColdPutter](/ColdPutter.png)
